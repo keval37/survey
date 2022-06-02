@@ -1,4 +1,4 @@
-# Survey Full Stack Application
+# Survey Application
 
 ## Requirements
 You need to have PHP version **8.0** or above. Node.js version **12.0** or above.
